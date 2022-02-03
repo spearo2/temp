@@ -7,9 +7,6 @@ public class Main {
         if(isHellow.equals("Hello")){
             System.out.println("Hello");
         }
-        // else{
-        //     System.out.println("Not Hello");
-        // }
     }
 }
 
